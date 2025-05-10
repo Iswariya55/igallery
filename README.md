@@ -1,5 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date: 17/4/25
+## Name: Iswariya R Reg No: 212224220039
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -25,8 +26,12 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+![Screenshot 2025-05-10 102801](https://github.com/user-attachments/assets/dc4fe4cf-c503-4c77-b212-917fade725e2)
+
 
 ## OUTPUT:
+![Screenshot 2025-05-10 102819](https://github.com/user-attachments/assets/007a89e2-513c-478a-ac33-4b5f91b05447)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
